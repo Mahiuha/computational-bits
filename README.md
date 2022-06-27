@@ -3,6 +3,12 @@
 A game based on the principles of computer programming.
 This project was bootstrapped with Create React App.
 
+## Gameplay
+
+The game follows a rover as it travels across four planets: Mercury, Venus, Earth, and Mars. On each planet, The rover needs your help to complete its missions. Program the rover by giving it instructions to follow to help it achieve each of its objectives.
+
+![Venus mission](images/venus_mission.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
