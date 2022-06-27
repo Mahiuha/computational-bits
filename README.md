@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Computational Bits
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A game based on the principles of computer programming.
+This project was bootstrapped with Create React App.
 
 ## Available Scripts
 
