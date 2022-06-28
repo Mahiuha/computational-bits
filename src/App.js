@@ -1,7 +1,3 @@
-export default function App() {
-  return (
-    <div classname="app">
-        Computational Bits.
-    </div>
-  );
-}
+import Page from './components/Page';
+
+export default Page;
