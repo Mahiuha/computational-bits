@@ -4,7 +4,7 @@ A game based on the principles of computer programming.
 
 **Play the game at <https://mahiuha.github.io/computational-bits/>**
 
-<img width="793" alt="planets" src="https://user-images.githubusercontent.com/35099243/176342024-0655224a-d629-42d3-86eb-613ef201e321.png">
+![solar-system](https://user-images.githubusercontent.com/35099243/176343703-5bcc3d3a-1801-42e5-b7df-165defade37c.gif)
 
 ## Gameplay
 
