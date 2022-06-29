@@ -2,11 +2,13 @@
   "name": "computational-bits",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Mahiuha.github.io/computational-bits",
   "dependencies": {
     "@react-spring/web": "^9.4.5",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-ga": "^3.3.1",
@@ -19,6 +21,8 @@
     "react-spring": "^8.x"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
