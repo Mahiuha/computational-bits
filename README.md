@@ -3,6 +3,8 @@
 A game based on the principles of computer programming.
 This project was bootstrapped with Create React App.
 
+**Play the game at <https://mahiuha.github.io/computational-bits/>**
+
 ## Gameplay
 
 The game follows a rover as it travels across four planets: Mercury, Venus, Earth, and Mars. On each planet, The rover needs your help to complete its missions. Program the rover by giving it instructions to follow to help it achieve each of its objectives.
