@@ -26,7 +26,6 @@ Each planet is focused on one new computational thinking principle.
 * Rover graphic originally from [SVG Repo](https://www.svgrepo.com/svg/43211/moon-rover).
 * Rock graphic originally from [FreeSVG](https://freesvg.org/ilmenskie-rock-dull-bg2).
 * Volcano graphic originally from [FreeSVG](https://freesvg.org/volcano-colour).
-* Game mechanics inspired by [this Scratch project](https://scratch.mit.edu/projects/456279794/).
 
 ## Contact
 
