@@ -86,7 +86,7 @@ const PlanetIntro = ({ onCompleteIntro, onZoomIntro, planetIndex }) => {
   // Generate orbit and planet for each visible planet
   const renderedPlanets = PLANETS.slice(0, 1 + planetIndex).map((planet, i) => {
 
-    const isLastPlanet = i == planetIndex;
+    const isLastPlanet = i === planetIndex;
 
     const radius = START_RADIUS + RADIUS_INCREMENT * i;
     return <a.g key={i} opacity={planetOpacitySpring.opacity}>

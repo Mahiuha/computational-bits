@@ -101,7 +101,7 @@ export const PLANETS = [
       sky: '#dbb78f',
       text: 'black'
     },
-    briefing: 'Welcome to Venus! the rover\'s mission is to explore the volcanos on the planet.',
+    briefing: 'Welcome to Venus! The rover\'s mission is to explore the volcanos on the planet.',
     missions: [
       {
         objective: 'Get to the base of the volcano and take a photo.',
