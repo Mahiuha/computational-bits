@@ -10,7 +10,6 @@ A game based on the principles of computer programming.
 
 The game follows a rover as it travels across four planets: Mercury, Venus, Earth, and Mars. On each planet, The rover needs your help to complete its missions. Program the rover by giving it instructions to follow to help it achieve each of its objectives.
 
-![Venus mission](images/venus_mission.png)
 
 Each planet is focused on one new computational thinking principle.
 
