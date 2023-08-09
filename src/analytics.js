@@ -12,7 +12,10 @@ export const getMissionLabel = (planetIndex, missionIndex) => {
 
 export const logPageview = () => {
   if (logAnalytics) {
-    ReactGA.pageview(window.location.pathname + window.location.search);
+    ReactGA.send({
+      hitType: 'pageview',
+      page: window.location.pathname + window.location.search
+    });
   }
 }
 
