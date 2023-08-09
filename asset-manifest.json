@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/computational-bits/static/css/main.feff5d76.css",
-    "main.js": "/computational-bits/static/js/main.a36957e0.js",
+    "main.js": "/computational-bits/static/js/main.7e0e0a95.js",
     "static/js/787.00bdae10.chunk.js": "/computational-bits/static/js/787.00bdae10.chunk.js",
     "static/media/amerika.mp3": "/computational-bits/static/media/amerika.421d936106b8e3300c89.mp3",
     "static/media/rover_flipped.svg": "/computational-bits/static/media/rover_flipped.b0750564661c4bf758ca4de2c9855f48.svg",
@@ -24,11 +24,11 @@
     "static/media/button_red_pressed.svg": "/computational-bits/static/media/button_red_pressed.55c7f1f615796f97d11b47d538f8cc10.svg",
     "static/media/button_red_unpressed.svg": "/computational-bits/static/media/button_red_unpressed.e7d11fc10f4a14a3e1304e6bbaa59d92.svg",
     "main.feff5d76.css.map": "/computational-bits/static/css/main.feff5d76.css.map",
-    "main.a36957e0.js.map": "/computational-bits/static/js/main.a36957e0.js.map",
+    "main.7e0e0a95.js.map": "/computational-bits/static/js/main.7e0e0a95.js.map",
     "787.00bdae10.chunk.js.map": "/computational-bits/static/js/787.00bdae10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.feff5d76.css",
-    "static/js/main.a36957e0.js"
+    "static/js/main.7e0e0a95.js"
   ]
 }
