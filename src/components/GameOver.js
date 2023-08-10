@@ -15,7 +15,7 @@ const GameOver = () => {
       I'm Joseph Mahiuha, and I developed Computational Bits as a final project at
       ALX-Holberton School.
       I would love to hear your thoughts and feedback on the experience: you can reach me
-      at <a style={{color: 'white'}} href="mailto:tiasho.mahiuha@gmail.com">tiasho.mahiuha@gmail.com</a>.
+      at <a style={{color: 'white'}} href="mailto:mahiuha@mahiuha.com">mahiuha@mahiuha.com</a>.
     </div>
   </div>);
 }
