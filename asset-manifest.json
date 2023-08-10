@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/computational-bits/static/css/main.feff5d76.css",
-    "main.js": "/computational-bits/static/js/main.7e0e0a95.js",
+    "main.js": "/computational-bits/static/js/main.ad16e5cc.js",
     "static/js/787.00bdae10.chunk.js": "/computational-bits/static/js/787.00bdae10.chunk.js",
     "static/media/amerika.mp3": "/computational-bits/static/media/amerika.421d936106b8e3300c89.mp3",
     "static/media/rover_flipped.svg": "/computational-bits/static/media/rover_flipped.b0750564661c4bf758ca4de2c9855f48.svg",
     "static/media/rover.svg": "/computational-bits/static/media/rover.23cfabb7107c38529a860559a099d3dd.svg",
     "static/media/rock_blue.svg": "/computational-bits/static/media/rock_blue.b4d87adc963a33b54069900aef12c968.svg",
     "static/media/rock_red.svg": "/computational-bits/static/media/rock_red.c3144c1fd8edf22d4bd77115654d89f7.svg",
+    "static/media/box_samples.svg": "/computational-bits/static/media/box_samples.2269f71ebe69ef4d4670287836b61a1b.svg",
+    "static/media/box_blue.svg": "/computational-bits/static/media/box_blue.dd2afa8017913f25258428ab2a8efeff.svg",
+    "static/media/box_red.svg": "/computational-bits/static/media/box_red.78c0c363ae77832fb25b27249c06e93f.svg",
     "static/media/rocket.svg": "/computational-bits/static/media/rocket.9b007f16c167285b3a41f2c8a721c79d.svg",
     "static/media/volcano.svg": "/computational-bits/static/media/volcano.dbb2cecc98f0f74d428134a99587eadf.svg",
     "static/media/bridge.svg": "/computational-bits/static/media/bridge.e199f54212270d80e4e16c6dc841293d.svg",
     "static/media/lab.svg": "/computational-bits/static/media/lab.7efba4afb6fe0d5e7e874728da579ce0.svg",
     "index.html": "/computational-bits/index.html",
-    "static/media/box_blue.svg": "/computational-bits/static/media/box_blue.f492ab791bba1d80869e0b24801b483e.svg",
-    "static/media/box_red.svg": "/computational-bits/static/media/box_red.f492ab791bba1d80869e0b24801b483e.svg",
-    "static/media/box_samples.svg": "/computational-bits/static/media/box_samples.f492ab791bba1d80869e0b24801b483e.svg",
     "static/media/mountain.svg": "/computational-bits/static/media/mountain.ac92a98b4e9026a4fc581c83a4b2f821.svg",
     "static/media/mercury_crater.svg": "/computational-bits/static/media/mercury_crater.9cbc90abfe9c59463d0f1e51d345f273.svg",
     "static/media/photograph.svg": "/computational-bits/static/media/photograph.60df5c5d8b2f13e863bb3b9786fded2a.svg",
@@ -24,11 +24,11 @@
     "static/media/button_red_pressed.svg": "/computational-bits/static/media/button_red_pressed.55c7f1f615796f97d11b47d538f8cc10.svg",
     "static/media/button_red_unpressed.svg": "/computational-bits/static/media/button_red_unpressed.e7d11fc10f4a14a3e1304e6bbaa59d92.svg",
     "main.feff5d76.css.map": "/computational-bits/static/css/main.feff5d76.css.map",
-    "main.7e0e0a95.js.map": "/computational-bits/static/js/main.7e0e0a95.js.map",
+    "main.ad16e5cc.js.map": "/computational-bits/static/js/main.ad16e5cc.js.map",
     "787.00bdae10.chunk.js.map": "/computational-bits/static/js/787.00bdae10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.feff5d76.css",
-    "static/js/main.7e0e0a95.js"
+    "static/js/main.ad16e5cc.js"
   ]
 }
